@@ -1,0 +1,6 @@
+$Servers=@('Anything1','Anything2','Anything3')
+
+foreach($Server in $servers)
+{
+  Do-stuff; do more stuff; and do more stuff
+}
